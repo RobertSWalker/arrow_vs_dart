@@ -3,3 +3,5 @@ Classifier for North American arrows versus darts using measurements (length + w
 
 ## Publication
 Scripts are for an upcoming publication with Briggs Buchanan and Marcus Hamilton. There is an accompanying shiny app here [https://robert-walker.shinyapps.io/ggshiny/](https://robert-walker.shinyapps.io/arrows_darts/).
+
+![alt text](https://github.com/[RobertSWalker/[arrow_vs_dart]/blob/[branch]/fig.jpg?raw=true)
